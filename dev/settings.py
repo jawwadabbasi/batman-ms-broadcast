@@ -17,7 +17,7 @@ DB_PASS = ''
 BATMAN_URL = ''
 
 # Mailbox Settings
-BATMAIL = 'jawwad@kodelle.com'
+BATMAIL = 'jawwad@omnitryx.ca'
 BATPASSWORD = 'alfredismybestfriend'
 
 # Teams Settings

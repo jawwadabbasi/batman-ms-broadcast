@@ -136,7 +136,7 @@ class Email:
 
         try:
             emails = [
-                'jawwad@kodelle.com',
+                'jawwad@omnitryx.ca',
             ]
 
             return {

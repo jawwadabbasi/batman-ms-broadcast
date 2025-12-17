@@ -182,7 +182,7 @@ class Template:
                 },
                 {
                     "name": "Powered by:",
-                    "value": "Kodelle Inc."
+                    "value": "Omnitryx Inc."
                 }
             ],
             "markdown": True,
